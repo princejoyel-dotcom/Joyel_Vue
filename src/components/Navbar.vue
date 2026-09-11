@@ -16,6 +16,9 @@
       <RouterLink to="/campus-life" class="nav-link">Campus Life</RouterLink>
       <RouterLink to="/news" class="nav-link">News</RouterLink>
       <RouterLink to="/contact" class="nav-link">Contact</RouterLink>
+      <RouterLink to="/sample-data" class="nav-link">Sample Data</RouterLink>
+      <RouterLink to="/sample-methods" class="nav-link">Sample Methods</RouterLink>
+      <RouterLink to="/sample-vmodel" class="nav-link">Sample V-Model</RouterLink>
     </nav>
 
     <div class="action-block">
