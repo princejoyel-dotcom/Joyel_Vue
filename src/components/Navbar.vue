@@ -10,12 +10,12 @@
 
     <nav class="navigation-links">
       <RouterLink to="/" class="nav-link">Home</RouterLink>
-      <a href="#" @click.prevent class="nav-link">About</a>
+      <RouterLink to="/about" class="nav-link">About</RouterLink>
       <RouterLink to="/admissions" class="nav-link">Admissions</RouterLink>
-      <a href="#" @click.prevent class="nav-link">Academics</a>
-      <a href="#" @click.prevent class="nav-link">Campus Life</a>
-      <a href="#" @click.prevent class="nav-link">News</a>
-      <a href="#" @click.prevent class="nav-link">Contact</a>
+      <RouterLink to="/academics" class="nav-link">Academics</RouterLink>
+      <RouterLink to="/campus-life" class="nav-link">Campus Life</RouterLink>
+      <RouterLink to="/news" class="nav-link">News</RouterLink>
+      <RouterLink to="/contact" class="nav-link">Contact</RouterLink>
     </nav>
 
     <div class="action-block">

@@ -1,8 +1,5 @@
 <script setup>
 
-import { ref } from 'vue';
-import navbar from '@/components/navbar.vue';
-
 </script>
 
 <template>
