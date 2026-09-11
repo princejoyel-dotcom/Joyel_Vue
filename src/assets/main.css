@@ -1,0 +1,24 @@
+  :root {
+  --primary-purple: #452060;
+  --secondary-purple: #1A0D3F;
+  --accent-gold: #C8A100;
+  --dark-gold: #7A5A00;
+  --bg-light: #FBF8FA;
+  --bg-gray: #EBE5EC;
+  --text-dark: #333333;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #ffffff;
+  color: var(--text-dark);
+  -webkit-font-smoothing: antialiased;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
